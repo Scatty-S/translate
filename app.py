@@ -70,7 +70,7 @@ def translate_smart(text, target):
 st.set_page_config(page_title="Turbo Translator Pro v2", page_icon="⚡", layout="wide")
 
 st.title("⚡ Turbo Excel Translator")
-st.markdown("Alat translasi otomatis untuk file Excel buatan fadhil ganteng kece keren hebat slebew.  kalo gatau kodenya tanya gugel nulisnya gini 639-1 kode bahasa ..... bahasa mu ketiken")
+st.markdown("Alat translasi otomatis untuk file Excel buatan fadhil ganteng kece keren hebat slebew.  kalo gatau kodenya tanya gugel nulisnya gini 639-1 kode bahasa ..... bahasa mu ketiken. JANGAN LUPA DIKASIH LETI 1 BARIS DIATAS NYA")
 
 # --- SIDEBAR ---
 st.sidebar.header("⚙️ Pengaturan")
