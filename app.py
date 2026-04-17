@@ -75,7 +75,7 @@ st.markdown("Alat translasi otomatis untuk file Excel dengan fitur **Anti-Banned
 # --- SIDEBAR ---
 st.sidebar.header("⚙️ Pengaturan")
 target_lang = st.sidebar.text_input("Kode Bahasa Tujuan", value="en", help="Contoh: en, ja, fi, ko, ar")
-max_workers = st.sidebar.slider("Kecepatan (Workers)", 1, 10, 5, help="Disarankan 5-10 agar aman.")
+max_workers = st.sidebar.slider("Kecepatan (Workers)", 1, 15, 5, help="Disarankan 5-10 agar aman.")
 
 st.sidebar.markdown("---")
 st.sidebar.info("📌 **Catatan:**\nJika hasil download berwarna merah, artinya IP kamu terkena limit sementara. Kurangi Workers atau ganti koneksi internet.")
