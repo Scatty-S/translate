@@ -78,7 +78,7 @@ target_lang = st.sidebar.text_input("Kode Bahasa Tujuan", value="en", help="Cont
 max_workers = st.sidebar.slider("Kecepatan (Workers)", 1, 15, 5, help="Disarankan 5-10 agar aman.")
 
 st.sidebar.markdown("---")
-st.sidebar.info("📌 **Catatan:**\nJika hasil download berwarna merah, artinya IP kamu terkena limit sementara. Kurangi Workers atau ganti koneksi internet.")
+st.sidebar.info("📌 **Catatan:**\nJika hasil download berwarna merah, artinya IP kamu terkena limit sementara. Kurangi Workers atau ganti koneksi internet. pesan untuk mahrus UWES RUS NEK GA KUAT 10 AE GAUSA MEKSO DIULEK ULEK KODENE SAMPE DADI 100!!!")
 
 # --- PROSES UTAMA ---
 uploaded_file = st.file_uploader("Upload file Excel (.xlsx)", type=["xlsx"])
