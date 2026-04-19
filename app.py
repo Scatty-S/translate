@@ -71,7 +71,7 @@ st.set_page_config(page_title="Turbo Translator Pro v2", page_icon="⚡", layout
 
 st.title("⚡ Turbo Excel Translator")
 st.markdown("Alat translasi otomatis untuk file Excel buatan fadhil ganteng kece keren hebat slebew.  kalo gatau kodenya tanya gugel nulisnya gini 639-1 kode bahasa ..... bahasa mu ketiken. JANGAN LUPA DIKASIH LETI 1 BARIS DIATAS NYA")
-
+st.markdown("PAKAILAH 1 TAB AJA JANGAN MULTI TAB WOYYYY RUSAK HOST E, NDAK TAK HOST NO MANEH WM")
 # --- SIDEBAR ---
 st.sidebar.header("⚙️ Pengaturan")
 target_lang = st.sidebar.text_input("Kode Bahasa Tujuan", value="en", help="Contoh: en, ja, fi, ko, ar")
